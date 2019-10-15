@@ -11,5 +11,7 @@ import UIKit
 class LoginViewController:UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         // todo work here
+        
+        print("hello world")
     }
 }
